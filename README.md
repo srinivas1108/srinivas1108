@@ -1,8 +1,8 @@
-#  Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=50px height=30px/> I’m srinivas 
+#  Hi there <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=50px height=30px/> I’m Srinivas 
 
 - 🧔🏻 I'm 23 years old and I'm from India.
 - 🎓 I graduated as a CSE student at QIS institute of technology.
-- 👀 I’m aspiring to become a  Full Stack Web Developer
+- 👀 I’m aspiring to become a  *Full Stack Web Developer*
 - 🌱 I’m currently learning Front end technologies
 
 ## Programming langauages I'm good at  🧑🏻‍💻
